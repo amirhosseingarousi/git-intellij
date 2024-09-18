@@ -8,3 +8,7 @@ git commit
 
 git push
     move code from local to remote repo
+
+git pull
+    get the latest changes from remote to working directory
+    fetch + merge
